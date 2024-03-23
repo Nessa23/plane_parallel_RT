@@ -1,3 +1,3 @@
 # Plane Parallel Radiative transfer
 
-from Michalas radiativa transfer in lines was performed.
+from Michalas radiative transfer in lines was performed.
